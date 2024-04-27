@@ -1,5 +1,46 @@
 *{
-  background-color: prple;
+  background-color: purple;
   margin: 0%;
   padding: 0;
 }
+#inputs{
+  margin-left: 40%;
+  margin-top: 5%;
+  margin-bottom: 0%;
+}
+#input{
+  padding: 20px;
+  width: 22rem;
+  border-radius: 5px;
+  border-color: black;
+  font-size: 30px;
+  margin-bottom: 1%;
+}
+#description,#city,#degree,#minmax,#date{
+  text-align: center;
+  margin-top: 5%;
+}
+
+#city{
+  margin-top: 5%;
+  font-size: 5rem;
+}
+
+#date{
+  margin-top: 0;
+  font-size: 2rem;
+}
+
+#degree{
+  font-size: 8rem;
+}
+
+#description{
+  font-size: 4rem;
+}
+
+#minmax{
+  margin-top: 0%;
+  font-size: 2rem;
+}
+
